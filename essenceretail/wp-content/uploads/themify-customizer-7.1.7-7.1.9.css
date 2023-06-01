@@ -1,0 +1,9 @@
+
+/* Themify Custom CSS */
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+color: #424242;
+font-size: 1.3em;
+font-weight: 300;
+margin: 0 0 0.3em;
+letter-spacing: -.02em;
+}
