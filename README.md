@@ -1,5 +1,5 @@
 # Visit site
-you can visit the site through this link: https://dev-essenceretail.pantheonsite.io/
+You can visit the site through this link: https://dev-essenceretail.pantheonsite.io/
 
 # WordPress
 
